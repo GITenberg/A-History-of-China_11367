@@ -1,5 +1,8 @@
 _repo: A-History-of-China_11367
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Eberhard, Wolfram
@@ -14,6 +17,8 @@ description: 'Half-title; Title Page; Copyright Page; Originial Title Page; Orig
   The First Petty States in Shansi; Chapter II: The Emergence of Feudalism (c. 1600-1028
   B.C.); 1 Period, Origin, Material Culture; 2 Writing and Religion; 3 Early Feudalism;
   Chapter III: Mature Feudalism (c. 1028-500 B.C.).'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11367#A-History-of-China
 gutenberg_bookshelf: Children's History
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
